@@ -2,7 +2,7 @@
 
 ### Here you'll find some of my  small projects I build for fun, learning, and curiosity.
 ### This is just the beginning—more is coming.
-<img   width="70%" alt="image" src="walll.png" /> 
+<img  alt="image" src="walll.png" /> 
 
 
 <!--
