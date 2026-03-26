@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 
+# Welcome to my GitHub 👋
+
+## Here you'll find small projects I build for fun, learning, and curiosity.
+### This is just the beginning—more is coming.
+
 
 <!--
 **zakaria-obazzi/zakaria-obazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
