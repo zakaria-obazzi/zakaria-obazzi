@@ -2,8 +2,9 @@
 
 ### Here you'll find some of my  small projects I build for fun, learning, and curiosity.
 ### This is just the beginning—more is coming.
-
+<div>
 <center> <img   width="70%" alt="image" src="walll.png" /> </center>
+</div?
 
 
 <!--
