@@ -3,7 +3,7 @@
 ### Here you'll find some of my  small projects I build for fun, learning, and curiosity.
 ### This is just the beginning—more is coming.
 
-<center> <img  width="100%" halt="image" src="walll.jpg" /> </center>
+<center> <img  width="100%" halt="image" src="walll.png" /> </center>
 
 
 <!--
