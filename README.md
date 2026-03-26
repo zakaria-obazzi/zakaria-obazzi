@@ -3,6 +3,8 @@
 ### Here you'll find small projects I build for fun, learning, and curiosity.
 ### This is just the beginning—more is coming.
 
+<center> <img width="1252" height="510" alt="image" src="wall.jpg" /> </center>
+
 
 <!--
 **zakaria-obazzi/zakaria-obazzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
