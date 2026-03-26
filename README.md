@@ -1,7 +1,6 @@
-## Hi there 
 # Welcome to my GitHub 👋
 
-## Here you'll find small projects I build for fun, learning, and curiosity.
+##@ Here you'll find small projects I build for fun, learning, and curiosity.
 ### This is just the beginning—more is coming.
 
 
