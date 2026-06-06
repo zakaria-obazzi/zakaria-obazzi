@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at Ecole Supérieure de Technologie de Meknès (ESTM), <br>specializing in Artificial Intelligence and Emerging Technologies.<br>I am passionate about everything related to technology, <br>with a particular interest in programming, data science.
+Student, <br>specializing in Artificial Intelligence and Emerging Technologies.<br>I am passionate about everything related to technology, <br>with a particular interest in programming, data science.
 
 
 ## 🌐 Socials:
